@@ -1,0 +1,4 @@
+cinza -  #5F5E61
+preto - #2F2F30
+laranja - #F2BD1E
+logo - #FF914D
